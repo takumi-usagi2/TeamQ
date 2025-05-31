@@ -1,3 +1,3 @@
 # TeamQ
 
-# joined yuta
+# branched yuta
